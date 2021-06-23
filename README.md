@@ -27,3 +27,5 @@ The EBCR term is the abbreviation of "Empirical Bayes Concordance Ratio", which 
 |   EBCR   |     <ins>0.7348</ins>     |     0.9413     |    0.7052    |    0.9016    | **3.0158** | **4.1008** |
 
 The "results" folder contains the details of evaluation results comparing with other methods.
+
+The datasets are also available in the public [zenodo repository](https://doi.org/10.5281/zenodo.5013115).
